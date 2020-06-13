@@ -9,7 +9,7 @@
 					
 					<div class="footer-bottom row">
 						<p class="footer-text m-0 col-lg-6 col-md-12 pb-25 ">
-Copyright &copy; 2019 All rights reserved <a href="<?php echo BASE_PATH; ?>" target="_blank"><?php echo $info_row['school_name']; ?></a> | Powered by <a href="https://dabach.net/resultats_plus/" target="_blank">Résultats PLUS</a>
+Copyright &copy; 2019 All rights reserved <a href="<?php echo BASE_PATH; ?>" target="_blank"><?php echo $info_row['school_name']; ?></a> | Powered by <a href="https://gasycoder.com" target="_blank">Résultats PLUS</a>
 						</p>
 					</div>
 				</div>
