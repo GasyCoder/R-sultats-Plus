@@ -2,7 +2,7 @@
 	/** 
 	Configuration
 	Copyright © 2019 Résultats PLUS. All Rights Reserved.
-	Developed by DABACH NET - dabach.net@gmail.com - www.dabach.net
+	Developed by Gasy Coder - bezaraflorent@gmail.com - www.gasycoder.com
 	*/
  
 	// BASE_PATH with / at the end of link  
